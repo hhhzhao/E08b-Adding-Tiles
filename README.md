@@ -1,3 +1,7 @@
+Hello, this is Hua Zhao. In the assignment I added tiles to the game so that we can lay the break out games. Once the ball collied the tile, the tile will disappear. There are different colors of tiles in the game, enjoy!
+
+
+
 # E08b-Adding-Tiles
 
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about groups and scenes and adding tiles to the game.
